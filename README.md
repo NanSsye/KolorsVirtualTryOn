@@ -1,0 +1,2 @@
+# KolorsVirtualTryOn
+KolorsVirtualTryOn 是一个虚拟试衣服务插件，基于快手 Kolors 模型实现。用户可以通过上传人物照片和衣服照片，合成虚拟试衣效果图。基于xxxbot和xybotV2
