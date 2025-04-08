@@ -1,0 +1,4 @@
+aiohttp>=3.8.0
+aiofiles>=0.8.0
+pillow>=9.0.0
+sseclient-py>=1.7.2 

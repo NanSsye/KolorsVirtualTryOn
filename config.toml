@@ -1,0 +1,22 @@
+[basic]
+# 是否启用插件
+enable = true
+
+# 请求配置
+[request]
+# 试穿请求地址
+try_on_url = "https://kwai-kolors-kolors-virtual-try-on.ms.show/run/predict"
+# 队列请求地址
+queue_join_url = "https://kwai-kolors-kolors-virtual-try-on.ms.show/queue/join"
+# 队列数据地址
+queue_data_url = "https://kwai-kolors-kolors-virtual-try-on.ms.show/queue/data"
+# API状态请求地址
+api_status_url = "https://www.modelscope.cn/api/v1/studio/Kwai-Kolors/Kolors-Virtual-Try-On/status"
+# 代理地址，为空则不使用代理
+proxy = ""
+# studio token
+studio_token = ""
+# 需要发送的 Cookie 字符串
+cookie_string = """你的cookie"""
+# 请求超时时间(秒)
+timeout = 60 
