@@ -1,5 +1,7 @@
 # KolorsVirtualTryOn 插件
 
+![3ab1095c75949d0c574ee81d5373146](https://github.com/user-attachments/assets/0ac19f4c-494c-4a16-89e5-10cce230f92f)
+
 ## 介绍
 
 KolorsVirtualTryOn 是一个虚拟试衣服务插件，基于快手 Kolors 模型实现。用户可以通过上传人物照片和衣服照片，合成虚拟试衣效果图。
