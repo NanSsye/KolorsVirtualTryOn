@@ -1,6 +1,6 @@
 # KolorsVirtualTryOn 插件
 
-![3ab1095c75949d0c574ee81d5373146](https://github.com/user-attachments/assets/0ac19f4c-494c-4a16-89e5-10cce230f92f)
+![097f181a3ab66efe5629839c9a01085](https://github.com/user-attachments/assets/da2649f7-7338-4e3c-92fe-cfcbd1be989b)
 
 ## 介绍
 
